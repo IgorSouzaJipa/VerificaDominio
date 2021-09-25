@@ -1,0 +1,25 @@
+body{
+    background-image: url(../static/img/bg3.jpg);
+    text-align: left;
+    padding-top: 10%;
+  
+    width: 100vw;
+    height: 90vh;
+  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;}
+#contato{
+margin-left: 80px;
+}
+.row{
+    position: relative;
+}
+h2{
+    text-align: center;
+  
+}
+.sugestao label{
+    color: black
+}
